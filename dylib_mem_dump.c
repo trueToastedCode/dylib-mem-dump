@@ -111,5 +111,3 @@ struct section_64** dylib_find_sections(
     }
     return sections;
 }
-
-int main() { return 0; }
